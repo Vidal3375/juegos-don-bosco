@@ -1,0 +1,9 @@
+Geografía con Don Bosco - app web instalable
+
+Esta carpeta es una web completa. Para instalarla en el iPad:
+1. Súbela a un alojamiento con HTTPS (por ejemplo GitHub Pages).
+2. Abre la dirección en Safari en el iPad, con conexión.
+3. Botón Compartir -> "Añadir a pantalla de inicio".
+4. Abre la app una vez con conexión; después funciona sin internet.
+
+Si cambias algún archivo, sube el número VERSION en sw.js.
